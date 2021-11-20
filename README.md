@@ -36,7 +36,7 @@ In our previous analysis, Thomas High School ranked fairly high overall for math
 
 We repeated our previous analysis after removing reading and math scores for 9th graders at Thomas High School. 
 
-The overall summary for the district was not significantly changed. The average math score for the district dropped by 0.1 point. The reading score average remained the same as well as the percentages of students passing math, reading, and overall (Table 3 and 4).
+The overall summary for the district was not significantly changed. The average math score for the district dropped by 0.1 point. The reading score average remained the same as well as the percentages of students passing math, reading, and overall (Tables 3 and 4).
 
 **Table 3: District Summary from Previous Analysis**
 
