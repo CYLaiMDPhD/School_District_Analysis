@@ -20,7 +20,7 @@
 
 ## Overview
 
-This report compares analyses of school performance with and without a subset of data removed (specifically Thomas High School 9th graders).
+This report compares analyses of school performance with and without a subset of data removed for a client in a fictional school district.
 
 **Data Sources (provided as part of course materials):**
 - students_complete.csv
