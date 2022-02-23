@@ -1,12 +1,21 @@
 # School District Analysis
 
 
-*Note: This repository was generated to fulfill assignments (Module 4 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Challenge submitted on 11-20-21 for grading. Corresponding jupyter notebooks for grading are "PyCitySchools.ipynb" and "PyCitySchools_Challenge.ipynb".*
+*Note: This repository was generated to fulfill assignments (Module 4 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric. 
+
+Module exrecises as demonstrated in notebooks jupyter_practics.ipynb, pandas_practice.ipynb, functions_practice.ipynb, cleaning_data.ipynb, cleaning_student_names.ipynb, and PyCitySchools.ipynb include:
+
+
+The report below is based on code and analyses from PyCitySchools.ipynb and PyCitySchools_Challenge.ipynb.*
 
 
 ## Overview
 
 This report compares analyses of school performance with and without a subset of data removed (specifically Thomas High School 9th graders).
+
+**Data Sources (provided as part of course materials):**
+- students_complete.csv
+- schools_complete.csv
 
 
 ### Purpose:
