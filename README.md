@@ -3,7 +3,16 @@
 
 *Note: This repository was generated to fulfill assignments (Module 4 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.* 
 
-*Module exrecises as demonstrated in notebooks jupyter_practics.ipynb, pandas_practice.ipynb, functions_practice.ipynb, cleaning_data.ipynb, cleaning_student_names.ipynb, and PyCitySchools.ipynb include:*
+*Module exercises as demonstrated in notebooks jupyter_practice.ipynb, pandas_practice.ipynb, functions_practice.ipynb, cleaning_data.ipynb, cleaning_student_names.ipynb, and PyCitySchools.ipynb include:*
+*- Using jupyter notebook*
+*- Installing and using pandas*
+*- Loading and exporting data with pandas*
+*- Data exploration*
+*- Data cleaning*
+*- Merging dataframes*
+*- Performing basic math and functions on data columns*
+*- Dataframe manipulation*
+*- Binning, grouping, and combining data for analyses*
 
 
 *The report below is based on code and analyses from PyCitySchools.ipynb and PyCitySchools_Challenge.ipynb.*
